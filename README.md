@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=Python&logoColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
+![JAVA](https://img.shields.io/badge/Java-yellow?logo=&logoColor=white)
+![Cpp](https://img.shields.io/badge/Cpp-gray}?style=flat-square-for-the-badge&logo=C++&logoColor=ffffff)
+
 <!--
 **EM-H20/EM-H20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
