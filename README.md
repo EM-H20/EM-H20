@@ -1,4 +1,6 @@
 ### Hi there 👋
+Sejong Univ. 20
+COMPUTER ENGINEERING 32nd
 
 ![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=Python&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
