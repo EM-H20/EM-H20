@@ -1,4 +1,4 @@
-###about me
+<b>About me <br /></b>
 <h1 align="left">Hi there 👋 This is EuiMin Hong, a developer who codes dreams.</h1>
 <h3 align="left">I follow my dream to make my dream<br/> Sejong Univ 20<br/> COMPUTER ENGINEERING 32nd<br/></h3>
 
