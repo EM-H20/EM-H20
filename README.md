@@ -25,9 +25,10 @@
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=em-h20&show_icons=true&locale=en&layout=compact" alt="em-h20" /> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=em-h20&show_icons=true&locale=en" alt="em-h20" /> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=em-h20&" alt="em-h20" /> </p>
-
+<div align="center">
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=em-h20&" alt="em-h20" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=em-h20&show_icons=true&locale=en" alt="em-h20" /></p>  
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=em-h20&show_icons=true&locale=en&layout=compact" alt="em-h20" /></p>
+</div>
