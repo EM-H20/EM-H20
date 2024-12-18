@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **HTML, CSS, JAVASCRIPT, React**
+- 🌱 I’m currently learning **HTML, CSS, JAVASCRIPT, Flutter**
 
 - 📫 How to reach me **ghd0106@gmail.com**
 
