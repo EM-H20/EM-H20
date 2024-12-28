@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **HTML, CSS, JAVASCRIPT, Flutter**
 
 - 📫 How to reach me **ghd0106@gmail.com**
-- [Tistory 로고] https://elipair.tistory.com/
+- 📌 My Blog is https://elipair.tistory.com/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
