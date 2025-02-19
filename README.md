@@ -10,7 +10,7 @@ Check out my repositories below to see some of my projects! 👇
 
 ## About Me 🚀
 
-Hi there 👋 This is EuiMin Hong, a developer who codes dreams.
+Hi there 👋 This is Elipair, a developer who codes dreams.
 
 I follow my dream to make my dream.
 
