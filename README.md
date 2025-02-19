@@ -6,7 +6,8 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JAVASCRIPT, Flutter**
 
-- 📫 How to reach me **ghd0106@gmail.com**
+- 📫 How to reach me elipair0106@gmail.com 📧
+- ✉️ Business inquiries: elipair0106@gmail.com
 - 📌 My Blog is https://elipair.tistory.com/
 
 <h3 align="left">Connect with me:</h3>
