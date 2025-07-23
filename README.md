@@ -39,6 +39,34 @@ I follow my dream to make my dream.
 
 ---
 
+## My Apps & Website 🚀
+
+Here are some projects I’ve developed and deployed:
+
+### 🧱 Block Drag  
+A fun and intuitive puzzle game that tests your spatial skills.  
+- [Google Play Store](https://play.google.com/store/apps/details?id=com.elipair.blockdrag&pli=1)  
+- [Apple App Store](https://apps.apple.com/us/app/block-drag/id6745786081)
+
+---
+
+### 📖 RuleBook  
+An app for quickly browsing and managing various game rulebooks.  
+- [Google Play Store](https://play.google.com/store/apps/details?id=com.elipair.rulebook)  
+- [Apple App Store](https://apps.apple.com/us/app/%EB%A3%B0%EB%B6%81-rulebook/id6745808744)
+
+---
+
+### 🌐 Nyangseng Project  
+A playful web experience featuring a cat-themed interaction, built with Next.js and deployed on Vercel.  
+- [Visit Website](https://nyangseng-git-main-em-h20s-projects.vercel.app/)
+
+---
+
+### 📝 Emotion Diary  
+A minimal and clean diary web app where users can track emotions and reflections.  
+- [Visit Website](https://emotion-diary-theta-eight.vercel.app/)
+
 ## Contact 📞
 
 - 📫 Reach me: elipair0106@gmail.com
