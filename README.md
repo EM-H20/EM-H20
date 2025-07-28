@@ -17,7 +17,7 @@ I build delightful cross-platform experiences with **Flutter** and craft smooth,
 
 ## 🛠️ Skills
 
-- 🔧 Currently learning: **HTML, CSS, JavaScript, Flutter**
+- 🔧 Currently learning: **Flutter, TypeScript, Next.JS**
 - 💻 Comfortable with: cross-platform app development, UI/UX design, Git
 
 ### Languages & Tools  
