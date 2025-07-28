@@ -47,6 +47,7 @@ Here are some projects I’ve developed and deployed:
 A fun and intuitive puzzle game that tests your spatial skills.  
 - [Google Play Store](https://play.google.com/store/apps/details?id=com.elipair.blockdrag&pli=1)  
 - [Apple App Store](https://apps.apple.com/us/app/block-drag/id6745786081)
+<img width="512" height="512" alt="512배경x" src="https://github.com/user-attachments/assets/4469dc91-3f08-4cb9-8fcd-280baa6962a6" />
 
 ---
 
@@ -54,14 +55,16 @@ A fun and intuitive puzzle game that tests your spatial skills.
 An app for quickly browsing and managing various game rulebooks.  
 - [Google Play Store](https://play.google.com/store/apps/details?id=com.elipair.rulebook)  
 - [Apple App Store](https://apps.apple.com/us/app/%EB%A3%B0%EB%B6%81-rulebook/id6745808744)
+<img width="512" height="512" alt="logo" src="https://github.com/user-attachments/assets/cab01c79-b6f9-4c6b-a752-8b13cc30f714" />
 
 ---
 
 ### 🌐 Nyangseng Project  
 A playful web experience featuring a cat-themed interaction, built with Next.js and deployed on Vercel.  
 - [Visit Website](https://nyangseng-git-main-em-h20s-projects.vercel.app/)
-
+<img width="512" height="512" alt="logo" src="https://github.com/user-attachments/assets/a6d9f846-26e8-4d70-8204-d2c7acfe1f95" />
 ---
+
 
 ### 📝 Emotion Diary  
 A minimal and clean diary web app where users can track emotions and reflections.  
