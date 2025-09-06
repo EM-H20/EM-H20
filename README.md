@@ -7,7 +7,19 @@ I build delightful cross-platform experiences with **Flutter** and craft smooth,
 - 🎓 Sejong University (Computer Engineering 32nd)
 - 💻 Passionate about mobile, game, and web development
 - 🌟 Dreamer who codes with vision
+
 ---
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=em-h20&" alt="GitHub Streak"/>
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=em-h20&show_icons=true&locale=en" alt="GitHub Stats"/>
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=em-h20&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
+</div>
+
+---
+
 ## 🛠️ Skills
 - 🔧 Currently learning: **Flutter, TypeScript, Next.js**
 - 💻 Comfortable with: cross-platform app development, UI/UX design, Git, **Docker**
@@ -62,17 +74,13 @@ Modern church website with a typed Next.js frontend and a Dockerized API layer.
 **Tech:** Next.js + TypeScript (frontend), Python FastAPI (backend), Docker  
 - [Visit Website](https://www.eunsaem.com/)
 <img width="1485" height="809" alt="2025" src="https://github.com/user-attachments/assets/10bff469-3d54-4e4a-8f76-9aa951d05844" />
+
 ---
+
 ## 📬 Contact Me
 - ✉️ Email: elipair0106@gmail.com  
 - 📝 Blog: [https://elipair.tistory.com/](https://elipair.tistory.com/)  
 - 📷 Instagram: [@e_m_hong](https://instagram.com/e_m_hong)
+  
 ---
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=em-h20&" alt="GitHub Streak"/>
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=em-h20&show_icons=true&locale=en" alt="GitHub Stats"/>
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=em-h20&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
-</div>
+
