@@ -1,4 +1,4 @@
-<img width="1485" height="809" alt="2025" src="https://github.com/user-attachments/assets/10bff469-3d54-4e4a-8f76-9aa951d05844" /># Hi, I'm Elipair! 👋  
+# Hi, I'm Elipair! 👋  
 📱💻 Flutter Developer | Mobile & Web App Engineer  
 I build delightful cross-platform experiences with **Flutter** and craft smooth, user-friendly UIs.
 > “I follow my dream to make my dream.”
@@ -61,8 +61,7 @@ A clean and minimal diary app to track emotions and reflect on daily life.
 Modern church website with a typed Next.js frontend and a Dockerized API layer.  
 **Tech:** Next.js + TypeScript (frontend), Python FastAPI (backend), Docker  
 - [Visit Website](https://www.eunsaem.com/)
-<img width="1485" height="809" alt="2025" src="https://github.com/user-attachments/assets/3cedf0c0-3ae7-4756-9e1d-eb9b002ebc8a" />
-
+<img width="1485" height="809" alt="2025" src="https://github.com/user-attachments/assets/10bff469-3d54-4e4a-8f76-9aa951d05844" />
 ---
 ## 📬 Contact Me
 - ✉️ Email: elipair0106@gmail.com  
