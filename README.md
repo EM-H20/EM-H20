@@ -24,17 +24,28 @@ I build delightful cross-platform experiences with **Flutter** and craft smooth,
 - 🔧 Currently learning: **Flutter, TypeScript, Next.js**
 - 💻 Comfortable with: cross-platform app development, UI/UX design, Git, **Docker**
 ### Languages & Tools  
+
+## 🎨 Frontend
 <p align="left">
   <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/></a>
   <a href="https://reactjs.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></a>
   <a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></a>
   <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
+</p>
+
+## ⚙️ Backend
+<p align="left">
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
+</p>
+
+## ☁️ Cloud & Infra
+<p align="left">
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/></a>
-  <a href="https://www.oracle.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40"/></a>
+<a href="https://vercel.com/" target="_blank">  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/vercel.svg" width="40" height="40" style="filter: invert(1);"/></a>
+</a>  <a href="https://www.oracle.com/cloud/" target="_blank"><img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="40" height="40"/></a>
 </p>
 
 ---
