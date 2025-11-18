@@ -2,13 +2,16 @@
 📱💻 Flutter Developer | Mobile & Web App Engineer  
 I build delightful cross-platform experiences with **Flutter** and craft smooth, user-friendly UIs.
 > “I follow my dream to make my dream.”
+
 ---
+
 ## 🔥 About Me
 - 🎓 Sejong University (Computer Engineering 32nd)
 - 💻 Passionate about mobile, game, and web development
 - 🌟 Dreamer who codes with vision
 
 ---
+
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=em-h20&" alt="GitHub Streak"/>
@@ -20,9 +23,16 @@ I build delightful cross-platform experiences with **Flutter** and craft smooth,
 
 ---
 
+## ⏱️ Coding Activity (WakaTime)
+ <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+  
+---
+
 ## 🛠️ Skills
 - 🔧 Currently learning: **Flutter, TypeScript, Next.js**
 - 💻 Comfortable with: cross-platform app development, UI/UX design, Git, **Docker**
+
 ### Languages & Tools  
 
 ## 🎨 Frontend
@@ -42,6 +52,15 @@ I build delightful cross-platform experiences with **Flutter** and craft smooth,
 </p>
 
 ## ☁️ Cloud & Infra
+<p align="left">
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/></a>
+  <a href="https://vercel.com/" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/vercel.svg" width="40" height="40" style="filter: invert(1);"/></a>
+  <a href="https://www.oracle.com/cloud/" target="_blank"><img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="40" height="40"/></a>
+</p>
+
+---
+
+## 🚀 Featured Projects
 <p align="left">
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/></a>
 <a href="https://vercel.com/" target="_blank">  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/vercel.svg" width="40" height="40" style="filter: invert(1);"/></a>
