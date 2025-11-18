@@ -25,9 +25,7 @@ I build delightful cross-platform experiences with **Flutter** and craft smooth,
 
 ## ⏱️ Coding Activity (WakaTime)
  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue)
 
 **🐱 저의 GitHub 정보에요.** 
 
@@ -41,32 +39,8 @@ I build delightful cross-platform experiences with **Flutter** and craft smooth,
  > 
 > 🔑 8개의 Private Repository를 만들었어요. 
  > 
-**저는 저녁형 인간이에요. 🦉** 
 
-```text
-🌞 아침                     736 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
-🌆 낮　                     1369 commits        ██████░░░░░░░░░░░░░░░░░░░   25.55 % 
-🌃 저녁                     2238 commits        ██████████░░░░░░░░░░░░░░░   41.77 % 
-🌙 밤　                     1015 commits        █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
-```
-
-
-📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
-
-```text
-💬 프로그래밍 언어들: 
-이번 주에 활동은 없어요.
-
-🔥 에디터들: 
-이번 주에 활동은 없어요.
-```
-
-**타임라인**
-
-![Lines of Code chart](https://raw.githubusercontent.com/EM-H20/EM-H20/main/assets/bar_graph.png)
-
-
- Last Updated on 18/11/2025 14:56:12 UTC
+ Last Updated on 18/11/2025 15:05:49 UTC
 <!--END_SECTION:waka-->
   
 ---
