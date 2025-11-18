@@ -12,6 +12,13 @@ I build delightful cross-platform experiences with **Flutter** and craft smooth,
 
 ---
 
+## ⏱️ Coding Activity (WakaTime)
+ <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
+---
+
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=em-h20&" alt="GitHub Streak"/>
@@ -20,28 +27,6 @@ I build delightful cross-platform experiences with **Flutter** and craft smooth,
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=em-h20&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
 </div>
-
----
-
-## ⏱️ Coding Activity (WakaTime)
- <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue)
-
-**🐱 저의 GitHub 정보에요.** 
-
-> 📦 GitHub의 843.2 kB만큼의 저장소를 사용하고 있어요. 
- > 
-> 🏆 673 만큼의 Contributions을 2025년에 했어요
- > 
-> 🚫 구직중이지 않아요.
- > 
-> 📜 20개의 Public Repository를 만들었어요. 
- > 
-> 🔑 8개의 Private Repository를 만들었어요. 
- > 
-
- Last Updated on 18/11/2025 15:05:49 UTC
-<!--END_SECTION:waka-->
   
 ---
 
