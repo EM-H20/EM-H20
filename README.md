@@ -14,8 +14,6 @@ I build delightful cross-platform experiences with **Flutter** and craft smooth,
 
 ## ⏱️ Coding Activity (WakaTime)
 <!--START_SECTION:elipair_waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-14%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-81-blue)
 
 ![Lines of code](https://img.shields.io/badge/%EC%A0%80%EB%8A%94%20%EC%97%AC%ED%83%9C%EA%B9%8C%EC%A7%80%20-4.3%20million%20%EC%A4%84%EC%9D%98%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EC%9E%91%EC%84%B1%ED%96%88%EC%96%B4%EC%9A%94.-blue)
@@ -24,7 +22,7 @@ I build delightful cross-platform experiences with **Flutter** and craft smooth,
 
 > 📦 GitHub의 843.3 kB만큼의 저장소를 사용하고 있어요. 
  > 
-> 🏆 679 만큼의 Contributions을 2025년에 했어요
+> 🏆 680 만큼의 Contributions을 2025년에 했어요
  > 
 > 🚫 구직중이지 않아요.
  > 
@@ -84,7 +82,7 @@ JavaScript               3 repos             ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 2025년 11월 18일 18:51:02 UTC UTC
+ Last Updated on 2025년 11월 19일 18:48:51 UTC UTC
 <!--END_SECTION:elipair_waka-->
 
 
