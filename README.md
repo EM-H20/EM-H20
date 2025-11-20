@@ -129,15 +129,6 @@ JavaScript               3 repos             ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜�
 </p>
 
 ---
-
-## 🚀 Featured Projects
-<p align="left">
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/></a>
-<a href="https://vercel.com/" target="_blank">  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/vercel.svg" width="40" height="40" style="filter: invert(1);"/></a>
-</a>  <a href="https://www.oracle.com/cloud/" target="_blank"><img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="40" height="40"/></a>
-</p>
-
----
 ## 🚀 Featured Projects
 ### 🧱 Block Drag
 A fast-paced, intuitive puzzle game to test your spatial skills.  
