@@ -147,19 +147,43 @@ Automatically extracts location info from SNS (Reels, Shorts, photos) to create 
 **Period:** 2025.09 ~ 2025.11  
 - [GitHub Repository](https://github.com/EM-H20/Tripgether-FE)
 
+---
+
+### ⛪ Eunsaem Church Website
+Modern church website with a typed Next.js frontend and a Dockerized API layer.  
+**Tech:** Next.js + TypeScript (frontend), Python FastAPI (backend), Docker, Oracle Cloud
+- [Visit Website](https://www.eunsaem.com/)
+  
+<img src="https://github.com/user-attachments/assets/10bff469-3d54-4e4a-8f76-9aa951d05844" width="300" />
+
+---
+
 ## 🚀 Featured Projects
 ### 🧱 Block Drag
 A fast-paced, intuitive puzzle game to test your spatial skills.  
 **Tech:** Flutter, Supabase  
+**Period:** 2025.05 ~ 2025.07
+
 - [Google Play Store](https://play.google.com/store/apps/details?id=com.elipair.blockdrag&pli=1)  
 - [App Store](https://apps.apple.com/us/app/block-drag/id6745786081)
   
 <img src="https://github.com/user-attachments/assets/4469dc91-3f08-4cb9-8fcd-280baa6962a6" width="300" />
 
 ---
+### 📝 Emotion Diary  
+A clean and minimal diary app to track emotions and reflect on daily life.  
+**Tech:** React  
+**Period:** 2024.07 ~ 2024.08
+
+- [Visit Website](https://emotion-diary-theta-eight.vercel.app/)
+  
+  <img width="300" height="400" alt="thumbnail" src="https://github.com/user-attachments/assets/a2433ae3-c14a-4e3c-b7af-6b9d6749ded6" />
+  
+---
 ### 📖 RuleBook  
 Quickly browse, bookmark, and search rulebooks for your favorite games.  
-**Tech:** Flutter  
+**Tech:** Flutter 
+**Period:** 2025.03 ~ 2025.06
 - [Google Play Store](https://play.google.com/store/apps/details?id=com.elipair.rulebook)  
 - [App Store](https://apps.apple.com/us/app/%EB%A3%B0%EB%B6%81-rulebook/id6745808744)
   
@@ -169,26 +193,11 @@ Quickly browse, bookmark, and search rulebooks for your favorite games.
 ### 🌐 Nyangseng Project  
 A playful cat-themed web experience built with Next.js  
 **Tech:** Next.js  
+**Period:** 2024.11 ~ 2024.12
+
 - [Visit Website](https://nyangseng-git-main-em-h20s-projects.vercel.app/)
   
 <img src="https://github.com/user-attachments/assets/a6d9f846-26e8-4d70-8204-d2c7acfe1f95" width="300" />
-
----
-### 📝 Emotion Diary  
-A clean and minimal diary app to track emotions and reflect on daily life.  
-**Tech:** React  
-
-- [Visit Website](https://emotion-diary-theta-eight.vercel.app/)
-  
-  <img width="300" height="400" alt="thumbnail" src="https://github.com/user-attachments/assets/a2433ae3-c14a-4e3c-b7af-6b9d6749ded6" />
-
----
-### ⛪ Eunsaem Church Website
-Modern church website with a typed Next.js frontend and a Dockerized API layer.  
-**Tech:** Next.js + TypeScript (frontend), Python FastAPI (backend), Docker  
-- [Visit Website](https://www.eunsaem.com/)
-  
-<img src="https://github.com/user-attachments/assets/10bff469-3d54-4e4a-8f76-9aa951d05844" width="300" />
 
 ---
 
