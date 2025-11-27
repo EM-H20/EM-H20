@@ -1,16 +1,39 @@
-# Hi, I'm Elipair! 👋  
-📱💻 Flutter Developer | Mobile & Web App Engineer  
-I build delightful cross-platform experiences with **Flutter** and craft smooth, user-friendly UIs.
-> “I follow my dream to make my dream.”
+<div align="center">
+  
+  <!--Header-->
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Elipair&fontSize=70&fontAlignY=35&desc=Hong%20Eui-min&descAlignY=51&descAlign=50)
+  
+  
+  # Hi, I'm Elipair! 👋
+  
+  ### 📱💻 Flutter Developer | Mobile & Web App Engineer
+  
+  I build delightful cross-platform experiences with **Flutter**  
+  and craft smooth, user-friendly UIs.
+  
+   *"I follow my dream to make my dream."*
+  
+  <br>
+  
+  ---
+  
+  ## 🔥 About Me
+  
+  - 🎓 Sejong University (Computer Engineering 32nd)
+  - 💻 Passionate about mobile, game, and web development
+  - 🌟 Dreamer who codes with vision
 
----
+  <br>
 
-## 🔥 About Me
-- 🎓 Sejong University (Computer Engineering 32nd)
-- 💻 Passionate about mobile, game, and web development
-- 🌟 Dreamer who codes with vision
-
----
+  ## 📬 Contact Me
+  
+  [![Email](https://img.shields.io/badge/Email-elipair0106@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elipair0106@gmail.com)
+  [![Blog](https://img.shields.io/badge/Tistory-Blog-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://elipair.tistory.com/)
+  [![Instagram](https://img.shields.io/badge/Instagram-@e__m__hong-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/e_m_hong)
+  [![GitHub](https://img.shields.io/badge/GitHub-Elipair-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Elipair)
+    <br>
+</div>
+    <br>
 
 ## ⏱️ Coding Activity (WakaTime)
 <!--START_SECTION:elipair_waka-->
@@ -201,10 +224,13 @@ A playful cat-themed web experience built with Next.js
 
 ---
 
-## 📬 Contact Me
-- ✉️ Email: elipair0106@gmail.com  
-- 📝 Blog: [https://elipair.tistory.com/](https://elipair.tistory.com/)  
-- 📷 Instagram: [@e_m_hong](https://instagram.com/e_m_hong)
-  
----
+### 🤖 플래닝 (Discord Bot)  
+A Lost Ark information bot for Discord communities  
+**Tech:** Python, Oracle Cloud  
+**Period:** 2024.11 ~ 2024.12
+- Deployed on Oracle Cloud infrastructure
+- Provides real-time Lost Ark game information and updates
 
+<img width="300" alt="플래닝 Discord Bot" src="https://github.com/user-attachments/assets/27c1d5b2-4362-4b1c-9f50-5da4d2c4e376" />
+
+---
