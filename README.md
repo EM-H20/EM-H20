@@ -1,9 +1,9 @@
 <div align="center">
   
   <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Elipair&fontSize=70&fontAlignY=35&desc=Hong%20Eui-min&descAlignY=51&descAlign=50)
-  
-  
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hong%20Eui-min&fontSize=60&fontAlignY=35)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=650&lines=Turning+Ideas+Into+Real+Products;Building+Better+User+Experiences)](https://git.io/typing-svg)
+
   # Hi, I'm Elipair! 👋
   
   ### 📱💻 Flutter Developer | Mobile & Web App Engineer
