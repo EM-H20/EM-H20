@@ -222,13 +222,21 @@ A playful cat-themed web experience built with Next.js
 
 ---
 
-### 🤖 플래닝 (Discord Bot)  
+### 🤖 플래닝 (Discord Bot)
 A Lost Ark information bot for Discord communities  
 **Tech:** Python, Oracle Cloud  
-**Period:** 2024.11 ~ 2024.12
-- Deployed on Oracle Cloud infrastructure
-- Provides real-time Lost Ark game information and updates
+**Period:** 2024.11 ~ 2024.12  
+- Deployed on Oracle Cloud infrastructure  
+- Provides real-time Lost Ark game information and updates  
+
+<div align="start" style="display: flex; flex-direction: column; align-items: center;">
 
 <img width="300" alt="플래닝 Discord Bot" src="https://github.com/user-attachments/assets/27c1d5b2-4362-4b1c-9f50-5da4d2c4e376" />
+
+<br />
+
+<img width="399" height="503" alt="image" src="https://github.com/user-attachments/assets/6c087d8a-efe6-4e31-8eed-57043d0a4dc2" />
+
+</div>
 
 ---
