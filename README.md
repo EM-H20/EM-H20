@@ -37,7 +37,7 @@
 
 ## ⏱️ Coding Activity (WakaTime)
 <!--START_SECTION:elipair_waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-35%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-36%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
 
@@ -115,7 +115,7 @@ JavaScript               3 repos             ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜�
 
 
 
- Last Updated on 2025년 12월 16일 18:54:39 UTC UTC
+ Last Updated on 2025년 12월 17일 18:55:11 UTC UTC
 <!--END_SECTION:elipair_waka-->
 
 
