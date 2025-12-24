@@ -162,6 +162,14 @@ JavaScript               3 repos             ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 ---
 
+### 🏆 Wanik Sejong
+**2025년 2학기 겨울방학 해커톤 장려상**  
+Team : "완익고무 100점" | 웹사이트 완익세종  
+**Tech:** React, Next.js  
+- [GitHub Repository](https://github.com/Wanik-Sejong/Wanik-Sejong-FE)
+
+---
+
 ### 🌍 Tripgether
 **AI-powered travel guide platform**  
 Automatically extracts location info from SNS (Reels, Shorts, photos) to create personalized travel maps and shareable itineraries.  
