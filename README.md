@@ -162,11 +162,10 @@ JavaScript               3 repos             ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 ---
 
-🏆 Stocker
-
-**2025 Seeds 팀 프로젝트 우수상**
-Team : 돔황촤 코스피 | 핀테크 주식투자 교육 앱 Stocker
-**Tech**: Flutter
+### 🏆 Stocker
+**2025 Seeds 팀 프로젝트 우수상** <br>
+Team : "돔황촤 코스피" | 핀테크 주식투자 교육 앱 Stocker<br>
+**Tech** Flutter<br>
 - [GitHub Repository](https://github.com/EM-H20/stocker)
 
 ---
