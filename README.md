@@ -161,12 +161,26 @@ TypeScript               4 repos             ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜�
   <a href="https://www.oracle.com/cloud/" target="_blank"><img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="40" height="40"/></a>
 </p>
 
+
+# 2026 Project
+
+### 🚀 우주공부선
+학습/스터디 관리 플랫폼
+스터디 목표 설정, 진행 기록, 공유 기능 중심으로 함께 공부 흐름을 만들 수 있는 서비스<br>
+**Tech:** Flutter<br>
+**Period:** 2026.01 ~ 2026~~
+- [GitHub Repository](https://github.com/SpaceStudyShip/SpaceStudyShip-FE)
+  
 ---
+
+# 2025 Project
+
 
 ### 🏆 Stocker
 **2025 Seeds 팀 프로젝트 우수상** <br>
 Team : "돔황촤 코스피" | 핀테크 주식투자 교육 앱 Stocker<br>
-**Tech** Flutter<br>
+**Tech:** Flutter<br>
+**Period:** 2025.05 ~ 2025.11
 - [GitHub Repository](https://github.com/EM-H20/stocker)
 
 ---
@@ -175,6 +189,7 @@ Team : "돔황촤 코스피" | 핀테크 주식투자 교육 앱 Stocker<br>
 **2025년 2학기 겨울방학 해커톤 장려상**  
 Team : "완익고무 100점" | 웹사이트 완익세종  
 **Tech:** React, Next.js  
+**Period:** 2025.12.23 ~ 2025.12.24
 - [GitHub Repository](https://github.com/Wanik-Sejong/Wanik-Sejong-FE)
 
 ---
