@@ -212,7 +212,7 @@ A fast-paced, intuitive puzzle game to test your spatial skills.
 ### 📝 Emotion Diary  
 A clean and minimal diary app to track emotions and reflect on daily life.  
 **Tech:** React  
-**Period:** 2024.07 ~ 2024.08
+**Period:** 2025.07 ~ 2025.08
 
 - [Visit Website](https://emotion-diary-theta-eight.vercel.app/)
   
