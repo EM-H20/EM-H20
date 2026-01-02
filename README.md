@@ -221,9 +221,10 @@ A fast-paced, intuitive puzzle game to test your spatial skills.
 - [Google Play Store](https://play.google.com/store/apps/details?id=com.elipair.blockdrag&pli=1)  
 - [App Store](https://apps.apple.com/us/app/block-drag/id6745786081)
   
-<img src="https://github.com/user-attachments/assets/4469dc91-3f08-4cb9-8fcd-280baa6962a6" width="300" />
+<img src="https://github.com/user-attachments/assets/5b798eb3-64c5-4294-9c91-999376df7cf6" width="300" />
 
 ---
+
 ### 📝 Emotion Diary  
 A clean and minimal diary app to track emotions and reflect on daily life.  
 **Tech:** React  
