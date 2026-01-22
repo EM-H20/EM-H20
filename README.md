@@ -208,6 +208,8 @@ Automatically extracts location info from SNS (Reels, Shorts, photos) to create 
 ### ⛪ Eunsaem Church Website
 Modern church website with a typed Next.js frontend and a Dockerized API layer.  
 **Tech:** Next.js + TypeScript (frontend), Python FastAPI (backend), Docker, Oracle Cloud
+**Period:** 2025.07 ~ 2025.11
+
 - [Visit Website](https://www.eunsaem.com/)
   
 <img src="https://github.com/user-attachments/assets/10bff469-3d54-4e4a-8f76-9aa951d05844" width="300" />
