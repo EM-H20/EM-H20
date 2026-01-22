@@ -182,6 +182,7 @@ Team : "돔황촤 코스피" | 핀테크 주식투자 교육 앱 Stocker<br>
 **Tech:** Flutter<br>
 **Period:** 2025.05 ~ 2025.11
 - [GitHub Repository](https://github.com/EM-H20/stocker)
+<img src="https://github.com/user-attachments/assets/8d838c1a-cda6-4794-96b3-ce3f17e3239a" width="300">
 
 ---
 
@@ -191,6 +192,7 @@ Team : "완익고무 100점" | 웹사이트 완익세종
 **Tech:** React, Next.js  
 **Period:** 2025.12.23 ~ 2025.12.24
 - [GitHub Repository](https://github.com/Wanik-Sejong/Wanik-Sejong-FE)
+<img src="https://github.com/user-attachments/assets/0d032f3e-81e8-46b6-8dcb-9df0437e1d75" width="300">
 
 ---
 
