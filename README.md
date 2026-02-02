@@ -1,4 +1,4 @@
-<div align="center">
+[트립게더_컴퍼니빌더2기_발표자료.pdf](https://github.com/user-attachments/files/25016051/_.2._.pdf)<div align="center">
   
   <!--Header-->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hong%20Eui-min&fontSize=60&fontAlignY=35)
@@ -194,13 +194,16 @@ Team : "완익고무 100점" | 웹사이트 완익세종
 ---
 
 ### 🌍 Tripgether
-**AI-powered travel guide platform**  
-Automatically extracts location info from SNS (Reels, Shorts, photos) to create personalized travel maps and shareable itineraries.  
+**세종대학교 창업캠프 대상, 제2회 신격호 롯데 청년기업가대상 본선 진출** <br>
+**AI 기반 여행 가이드 플랫폼**  
+SNS 게시물의 ‘공유’ 버튼 만으로 해당 게시물의 장소 정보를 정리해주는 앱 <br>
 **Tech:** Flutter  
 **Period:** 2025.09 ~ 2025.11  
 - [GitHub Repository](https://github.com/EM-H20/Tripgether-FE)
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/24dccac5-d863-4b45-8d0b-5972dd3c8375" />
 
 ---
+
 
 ### ⛪ Eunsaem Church Website
 Modern church website with a typed Next.js frontend and a Dockerized API layer.  
