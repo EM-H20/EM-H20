@@ -1,4 +1,3 @@
-[트립게더_컴퍼니빌더2기_발표자료.pdf](https://github.com/user-attachments/files/25016051/_.2._.pdf)<div align="center">
   
   <!--Header-->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hong%20Eui-min&fontSize=60&fontAlignY=35)
