@@ -121,13 +121,9 @@ JavaScript               4 repos             ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜�
 ---
 
 ## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=em-h20&" alt="GitHub Streak"/>
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=em-h20&show_icons=true&locale=en" alt="GitHub Stats"/>
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=em-h20&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
-</div>
+| <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Chuseok22&show_icons=true&count_private=true&include_all_commits=true" alt="Chuseok22's github stats" /> | <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Chuseok22&layout=compact&theme=buefy&hide_border=true" /> |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <img src="https://streak-stats.demolab.com/?user=Chuseok22" />     
   
 ---
 
