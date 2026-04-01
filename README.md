@@ -24,6 +24,12 @@
 
   <br>
 
+  ## 📜 Certifications
+
+[![SQLD](https://img.shields.io/badge/SQLD-SQL%20Developer-4479A1?style=for-the-badge&logo=databricks&logoColor=white)](#)
+  
+  <br>
+  
   ## 📬 Contact Me
   
   [![Email](https://img.shields.io/badge/Email-elipair0106@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elipair0106@gmail.com)
