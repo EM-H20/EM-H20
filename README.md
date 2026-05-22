@@ -206,7 +206,7 @@ Team : "돔황촤 코스피" | 핀테크 주식투자 교육 앱 Stocker<br>
 
 ---
 
-### 🏆 Wanik Sejong
+### 🏆 완익세종 (Wanik Sejong)
 **2025년 제 13회 세종대학교 SW-AI 해커톤 장려상**  
 Team : "완익고무 100점" | 웹사이트 완익세종  
 **Tech:** React, Next.js  
@@ -216,7 +216,7 @@ Team : "완익고무 100점" | 웹사이트 완익세종
 
 ---
 
-### 🌍 Tripgether
+### 🌍 트립게더 (Tripgether)
 **세종대학교 창업캠프 대상, 제2회 신격호 롯데 청년기업가대상 본선 진출** <br>
 **AI 기반 여행 가이드 플랫폼**  
 SNS 게시물의 ‘공유’ 버튼 만으로 해당 게시물의 장소 정보를 정리해주는 앱 <br>
@@ -228,7 +228,7 @@ SNS 게시물의 ‘공유’ 버튼 만으로 해당 게시물의 장소 정보
 ---
 
 
-### ⛪ Eunsaem Church Website
+### ⛪ 은샘침례교회 홈페이지 (Eunsaem Church Website)
 Modern church website with a typed Next.js frontend and a Dockerized API layer.  
 **Tech:** Next.js + TypeScript (frontend), Python FastAPI (backend), Docker, Oracle Cloud<br>
 **Period:** 2025.07 ~ 2025.11
@@ -272,7 +272,7 @@ Quickly browse, bookmark, and search rulebooks for your favorite games.
 <img src="https://github.com/user-attachments/assets/cab01c79-b6f9-4c6b-a752-8b13cc30f714" width="300" />
 
 ---
-### 🌐 Nyangseng Project  
+### 🌐 냥생뭐였니? (Nyangseng Project)
 A playful cat-themed web experience built with Next.js  
 **Tech:** Next.js  
 **Period:** 2024.11 ~ 2024.12
