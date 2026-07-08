@@ -11,7 +11,6 @@
   and craft smooth, user-friendly UIs.
   
    *"I follow my dream to make my dream."*
-  
   <br>
   
   ---
