@@ -199,13 +199,18 @@ GDScript                 1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 # 2026 Project
 
-### 🚔🥷 경찰과도둑 
+## 🚔🥷 경찰과도둑 
+### 어릴 적 골목길 경찰과 도둑 놀이를 스마트폰 앱으로 더 편하고 재밌게 즐길 수 있도록만든 실시간 위치 기반 야외 게임 앱<br>
+
 **세종대학교 SW중심대학 2026 세종 창업 아이디어 리그 - 대상** <br>
 **2026 세종대학교 하반기 입주공모전 - 우수 창업 아이템상** <br>
+**세종대학교 창업 동아리 SSUP - 선정** <br>
 **2026년 세종대학교 중앙학술동아리 아롬 - 데모데이 특별상** <br><br>
-어릴 적 골목길 경찰과 도둑 놀이를 스마트폰 앱으로 더 편하고 재밌게 즐길 수 있도록 만든 실시간 위치 기반 야외 게임 앱<br>
-**Tech:** Flutter<br>
-**Period:** 2025.10 ~ 2026~~
+**Tech:** Flutter, Riverpod, Dio/Retrofit, Google Maps · Naver Maps SDK, WebSocket(STOMP), Firebase(Auth/FCM/Analytics/Crashlytics) <br>
+**CI/CD:** GitHub Actions, Fastlane <br>
+**Deployment:** Google Play Store, Apple App Store
+**Period:** 2025.10 ~ 2026~~ <br>
+
 - [GitHub Repository](https://github.com/cops-and-robbers)<br>
 
 <img src="https://github.com/user-attachments/assets/702ca2a3-b272-4a86-9f30-4801fbf54714" width="300"/>
