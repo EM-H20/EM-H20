@@ -1,3 +1,4 @@
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Hong%20Eui-min&fontSize=44&fontAlignY=35)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=650&lines=Turning+Ideas+Into+Real+Products;Building+Better+User+Experiences)](https://git.io/typing-svg)
 
@@ -32,6 +33,9 @@
 ## ![FEATURED PROJECT](https://img.shields.io/badge/FEATURED%20PROJECT-555555?style=for-the-badge)
 
 ### 🚔 경찰과도둑
+
+<img width="796" height="149" alt="dongsim_news_banner_original_white" src="https://github.com/user-attachments/assets/14f3380b-7d30-4942-8864-4669358c7b0b" />
+
 
 **현실의 술래잡기를 연결하는 실시간 위치 기반 야외 게임 앱**  
 친구·동료·가족이 스마트폰으로 함께 즐기는 경찰과 도둑 놀이입니다. 위치 공유부터 QR 체포, 팀 채팅, 게임 판정까지 하나의 앱으로 연결합니다.
