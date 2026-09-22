@@ -1,76 +1,121 @@
-  
-  <!--Header-->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hong%20Eui-min&fontSize=60&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Hong%20Eui-min&fontSize=44&fontAlignY=35)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=650&lines=Turning+Ideas+Into+Real+Products;Building+Better+User+Experiences)](https://git.io/typing-svg)
 
-  # Hi, I'm Elipair! 👋
-  
-  ### 📱💻 Flutter Developer | Mobile & Web App Engineer
-  
-  I build delightful cross-platform experiences with **Flutter**  
-  and craft smooth, user-friendly UIs.
-  
-   *"I follow my dream to make my dream."*
-  <br>
-  
-  ---
-  
-  ## 🔥 About Me
-  
-  - 🎓 Sejong University (Computer Engineering 32nd)
-  - 💻 Passionate about mobile, game, and web development
-  - 🌟 Dreamer who codes with vision
+# Hong Eui-min · Elipair
 
-  <br>
+**Flutter Developer · Mobile & Web App Engineer**  
+아이디어를 실제로 사용할 수 있는 모바일·웹 서비스로 만듭니다.  
 
-  ## 📜 Certifications
+[![Email](https://img.shields.io/badge/Email-elipair0106@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elipair0106@gmail.com)
+[![Blog](https://img.shields.io/badge/Tistory-Blog-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://elipair.tistory.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-@e__m__hong-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/e_m_hong)
+[![GitHub](https://img.shields.io/badge/GitHub-EM--H20-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EM-H20)
 
-[![SQLD](https://img.shields.io/badge/SQLD-SQL%20Developer-4479A1?style=for-the-badge&logo=databricks&logoColor=white)](#)
-  
-  <br>
-  
-  ## 📬 Contact Me
-  
-  [![Email](https://img.shields.io/badge/Email-elipair0106@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elipair0106@gmail.com)
-  [![Blog](https://img.shields.io/badge/Tistory-Blog-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://elipair.tistory.com/)
-  [![Instagram](https://img.shields.io/badge/Instagram-@e__m__hong-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/e_m_hong)
-  [![GitHub](https://img.shields.io/badge/GitHub-Elipair-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Elipair)
-    <br>
-</div>
-    <br>
-    
-# 🛠️ Skills
+[소개·자격증](#spec) · [대표 프로젝트](#featured-project) · [수상](#awards) · [프로젝트 모음](#projects) · [기술 스택](#skills)
+
+---
+
+<a id="spec"></a>
+
+## ![SPEC](https://img.shields.io/badge/SPEC-555555?style=for-the-badge)
+
+| 항목 | 소개 |
+| :--- | :--- |
+| **Focus** | Flutter 앱 개발 · 배포 자동화 · UX 개선 |
+| **Education** | 세종대학교 · 컴퓨터공학 전공 |
+| **Certification** | ![SQLD](https://img.shields.io/badge/SQLD-4479A1?style=flat-square) |
+
+---
+
+<a id="featured-project"></a>
+
+## ![FEATURED PROJECT](https://img.shields.io/badge/FEATURED%20PROJECT-555555?style=for-the-badge)
+
+### 🚔 경찰과도둑
+
+**현실의 술래잡기를 연결하는 실시간 위치 기반 야외 게임 앱**  
+친구·동료·가족이 스마트폰으로 함께 즐기는 경찰과 도둑 놀이입니다. 위치 공유부터 QR 체포, 팀 채팅, 게임 판정까지 하나의 앱으로 연결합니다.
+
+**2025.10 – 2026** · Flutter · Android & iOS  
+🏆 **2026 세종 창업 아이디어 리그 대상** · [전체 수상 보기](#awards)
+
+| 항목 | 내용 |
+| :--- | :--- |
+| **담당 역할** | Flutter 앱 개발 · GitHub Actions/Fastlane 배포 자동화 · UX 개선 |
+| **핵심 기능** | 실시간 위치 공유 · QR 체포·초대 · 팀별 채팅 · 자동 게임 판정 |
+| **기술** | Flutter · Riverpod · Dio/Retrofit · 지도 SDK · WebSocket(STOMP) · Firebase |
+| **행사 참가** | 서울대학페스티벌 · 청춘대로 · 서울게임타운 |
+
+[![Google Play](https://img.shields.io/badge/Google%20Play-181717?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.elipair.copsandrobbers)
+[![App Store](https://img.shields.io/badge/App%20Store-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/us/app/cops-and-robbers-real-chase/id6756843948) </br>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/cops-and-robbers/cops-and-robbers-FE) [![Organization](https://img.shields.io/badge/Organization-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/cops-and-robbers)
+
+---
+
+<a id="awards"></a>
+
+## ![AWARDS](https://img.shields.io/badge/AWARDS-555555?style=for-the-badge)
+
+| 수상·선정 | 대회 · 프로젝트 | 프로젝트 링크 |
+| :--- | :--- | :--- |
+| **🥇 1st Place** | **2026 · Google I/O Extended: Hack the Beat · GDG Campus Korea**<br>**Party Passport** |[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Twin-Fang/Hack-the-Beat)|
+| **대상** | **2026 · 세종대학교 SW중심대학 · 세종 창업 아이디어 리그**<br>경찰과도둑 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/cops-and-robbers/cops-and-robbers-FE) |
+| **우수 창업 아이템상** | **2026 · 세종대학교 하반기 입주공모전**<br>경찰과도둑 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/cops-and-robbers/cops-and-robbers-FE) |
+| **특별상** | **2026 · 세종대학교 중앙학술동아리 아롬 데모데이**<br>경찰과도둑 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/cops-and-robbers/cops-and-robbers-FE) |
+| 선정 | **2026 · 세종대학교 창업 동아리 SSUP**<br>경찰과도둑 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/cops-and-robbers/cops-and-robbers-FE) |
+| **대상** | **2025 · 세종대학교 창업캠프**<br>트립게더 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/EM-H20/Tripgether-FE) |
+| 본선 진출 | **2025 · 제2회 신격호 롯데 청년기업가대상**<br>트립게더 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/EM-H20/Tripgether-FE) |
+| **우수상** | **2025 · 연합동아리 Seeds 팀 프로젝트**<br>Stocker | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/EM-H20/stocker) |
+| **장려상** | **2025 · 제13회 세종대학교 SW-AI 해커톤**<br>완익세종 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Wanik-Sejong/Wanik-Sejong-FE) |
+
+---
+
+<a id="projects"></a>
+
+## ![PROJECTS](https://img.shields.io/badge/PROJECTS-555555?style=for-the-badge)
+
+| 프로젝트 | 소개 · 기술 · 기간 | 링크 |
+| :--- | :--- | :--- |
+| **Block Drag** | 공간 감각을 활용하는 퍼즐 게임<br><sub>Flutter · Supabase · 2025.05 – 2025.07</sub> | [![Google Play](https://img.shields.io/badge/Google%20Play-181717?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.elipair.blockdrag&pli=1) [![App Store](https://img.shields.io/badge/App%20Store-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/us/app/block-drag/id6745786081) |
+| **RuleBook** | 보드게임 규칙 검색·북마크 앱<br><sub>Flutter · 2025.03 – 2025.06</sub> | [![Google Play](https://img.shields.io/badge/Google%20Play-181717?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.elipair.rulebook) [![App Store](https://img.shields.io/badge/App%20Store-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/us/app/%EB%A3%B0%EB%B6%81-rulebook/id6745808744) |
+| **트립게더** | SNS 게시물을 공유하면 장소 정보를 정리하는 AI 여행 가이드<br><sub>Flutter · 2025.09 – 2025.11</sub> | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/EM-H20/Tripgether-FE) |
+| **Stocker** | 주식투자를 배우는 핀테크 교육 앱 · 팀 돔황촤 코스피<br><sub>Flutter · 2025.05 – 2025.11</sub> | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/EM-H20/stocker) [![상장](https://img.shields.io/badge/%EC%83%81%EC%9E%A5-555555?style=flat-square)](https://github.com/user-attachments/files/26157168/_.pdf) |
+| **완익세종** | SW-AI 해커톤 웹 프로젝트 · 팀 완익고무 100점<br><sub>React · Next.js · 2025.12.23 – 2025.12.24</sub> | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Wanik-Sejong/Wanik-Sejong-FE) |
+| **우주공부선** | 스터디 목표 설정·학습 기록·공유 플랫폼<br><sub>Flutter · 2026.01 – 2026</sub> | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SpaceStudyShip/SpaceStudyShip-FE) |
+| **은샘침례교회** | 교회 홈페이지와 API 서버<br><sub>Next.js · TypeScript · FastAPI · Docker · Oracle Cloud · 2025.07 – 2025.11</sub> | [![Website](https://img.shields.io/badge/Website-2582E0?style=flat-square&logo=googlechrome&logoColor=white)](https://www.eunsaem.com/) |
+| **Emotion Diary** | 감정을 기록하고 일상을 돌아보는 다이어리<br><sub>React · 2025.07 – 2025.08</sub> | [![Website](https://img.shields.io/badge/Website-2582E0?style=flat-square&logo=googlechrome&logoColor=white)](https://emotion-diary-theta-eight.vercel.app/) |
+| **냥생뭐였니?** | 고양이를 테마로 한 웹 콘텐츠<br><sub>Next.js · 2024.11 – 2024.12</sub> | [![Website](https://img.shields.io/badge/Website-2582E0?style=flat-square&logo=googlechrome&logoColor=white)](https://nyangseng-git-main-em-h20s-projects.vercel.app/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/EM-H20/Nyangseng) |
+| **플래닝** | 로스트아크 정보를 제공하는 Discord 봇<br><sub>Python · Oracle Cloud · 2024.11 – 2024.12</sub> | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/EM-H20/DiscordBot) |
+
+---
+
+## ![DEVELOPER TOOLS](https://img.shields.io/badge/DEVELOPER%20TOOLS-555555?style=for-the-badge)
+
+| 프로젝트 | 소개 | 링크 |
+| :--- | :--- | :--- |
+| **Second Brain Template** | 회의·문서·이슈·의사결정을 연결하는 AI 에이전트용 Markdown 지식 관리 템플릿 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/EM-H20/second-brain-template) |
 
 
-## 🎨 Frontend
-<p align="left">
-  <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/></a>
-  <a href="https://reactjs.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="40" height="40"/></a>
-  <a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
-</p>
+---
 
-## ⚙️ Backend
-<p align="left">
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
-  <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
-</p>
+<a id="skills"></a>
 
-## ☁️ Cloud & Infra
-<p align="left">
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/></a>
-  <a href="https://vercel.com/" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/vercel.svg" width="40" height="40" style="filter: invert(1);"/></a>
-  <a href="https://www.oracle.com/cloud/" target="_blank"><img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="40" height="40"/></a>
-</p>
+## ![TECH STACK](https://img.shields.io/badge/TECH%20STACK-555555?style=for-the-badge)
 
+| 분야 | 기술 |
+| :--- | :--- |
+| **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Riverpod](https://img.shields.io/badge/Riverpod-0553B1?style=flat-square) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white) |
+| **Backend** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) |
+| **Data & Realtime** | ![Supabase](https://img.shields.io/badge/Supabase-238B62?style=flat-square&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-DD8B00?style=flat-square&logo=firebase&logoColor=white) ![WebSocket / STOMP](https://img.shields.io/badge/WebSocket%20%2F%20STOMP-333333?style=flat-square) |
+| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Fastlane](https://img.shields.io/badge/Fastlane-009C6A?style=flat-square&logo=fastlane&logoColor=white) |
 
-<br>
+---
 
-## ⏱️ Coding Activity (WakaTime)
+## ![ACTIVITY](https://img.shields.io/badge/ACTIVITY-555555?style=for-the-badge)
+
+### Coding Activity · WakaTime · AI
+
 <!--START_SECTION:elipair_waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C169%20hrs%2015%20mins-blue?style=flat)
 
@@ -185,155 +230,12 @@ GDScript                 1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 <!--END_SECTION:elipair_waka-->
 
 
----
+### GitHub Stats · 3D Contributions
 
-## 📊 GitHub Stats
-![svg](./profile-3d-contrib/profile-south-season-animate.svg)
+![3D contribution graph](./profile-3d-contrib/profile-south-season-animate.svg)
 
 
 | <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=EM-H20&show_icons=true&count_private=true&include_all_commits=true" alt="EM-H20's github stats" /> | <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EM-H20&layout=compact&theme=buefy&hide_border=true" /> |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <img src="https://streak-stats.demolab.com/?user=EM-H20" />                                                                                                                                    | <img src="https://github-trophies.vercel.app/?username=EM-H20&rank=SECRET,SSS,SS,S,AAA,AA,A&column=5&margin-w=5&margin-h=5" />                             |  
-  
----
+| <img src="https://streak-stats.demolab.com/?user=EM-H20" />                                                                                                                                    | <img src="https://github-trophies.vercel.app/?username=EM-H20&rank=SECRET,SSS,SS,S,AAA,AA,A&column=5&margin-w=5&margin-h=5" />                             |
 
-# 2026 Project
-
-## 🚔🥷 경찰과도둑 
-### 어릴 적 골목길 경찰과 도둑 놀이를 스마트폰 앱으로 더 편하고 재밌게 즐길 수 있도록만든 실시간 위치 기반 야외 게임 앱<br>
-
-**세종대학교 SW중심대학 2026 세종 창업 아이디어 리그 - 대상** <br>
-**2026 세종대학교 하반기 입주공모전 - 우수 창업 아이템상** <br>
-**세종대학교 창업 동아리 SSUP - 선정** <br>
-**2026년 세종대학교 중앙학술동아리 아롬 - 데모데이 특별상** <br><br>
-**Tech:** Flutter, Riverpod, Dio/Retrofit, Google Maps · Naver Maps SDK, WebSocket(STOMP), Firebase(Auth/FCM/Analytics/Crashlytics) <br>
-**CI/CD:** GitHub Actions, Fastlane <br>
-**Deployment:** Google Play Store, Apple App Store
-**Period:** 2025.10 ~ 2026~~ <br>
-
-- [GitHub Repository](https://github.com/cops-and-robbers)<br>
-
-<img src="https://github.com/user-attachments/assets/702ca2a3-b272-4a86-9f30-4801fbf54714" width="300"/>
-
-<img src="https://github.com/user-attachments/assets/863b5f81-2519-4b61-9ed2-65c28891d834" width="300"/>
-
-  
----
-### 🚀 우주공부선
-학습/스터디 관리 플랫폼
-스터디 목표 설정, 진행 기록, 공유 기능 중심으로 함께 공부 흐름을 만들 수 있는 서비스<br>
-**Tech:** Flutter<br>
-**Period:** 2026.01 ~ 2026~~
-- [GitHub Repository](https://github.com/SpaceStudyShip/SpaceStudyShip-FE)
-  
----
-
-# 2025 Project
-
-
-### 🏆 Stocker
-**2025년 연합동아리 Seeds 팀 프로젝트 우수상** <br><br>
-Team : "돔황촤 코스피" | 핀테크 주식투자 교육 앱 Stocker<br>
-**Tech:** Flutter<br>
-**Period:** 2025.05 ~ 2025.11
-- [GitHub Repository](https://github.com/EM-H20/stocker)<br>
-<img src="https://github.com/user-attachments/assets/8d838c1a-cda6-4794-96b3-ce3f17e3239a" width="300"><br>
-- [돔황차코스피_홍의민.pdf](https://github.com/user-attachments/files/26157168/_.pdf)
-
----
-
-### 🏆 완익세종 (Wanik Sejong)
-**2025년 제 13회 세종대학교 SW-AI 해커톤 장려상** <br><br>
-Team : "완익고무 100점" | 웹사이트 완익세종  
-**Tech:** React, Next.js  
-**Period:** 2025.12.23 ~ 2025.12.24
-- [GitHub Repository](https://github.com/Wanik-Sejong/Wanik-Sejong-FE)
-<img src="https://github.com/user-attachments/assets/0d032f3e-81e8-46b6-8dcb-9df0437e1d75" width="300">
-
----
-
-### 🌍 트립게더 (Tripgether)
-**세종대학교 창업캠프 대상, 제2회 신격호 롯데 청년기업가대상 본선 진출** <br><br>
-**AI 기반 여행 가이드 플랫폼**  
-SNS 게시물의 ‘공유’ 버튼 만으로 해당 게시물의 장소 정보를 정리해주는 앱 <br>
-**Tech:** Flutter  
-**Period:** 2025.09 ~ 2025.11  
-- [GitHub Repository](https://github.com/EM-H20/Tripgether-FE)
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/24dccac5-d863-4b45-8d0b-5972dd3c8375" />
-
----
-
-
-### ⛪ 은샘침례교회 홈페이지 (Eunsaem Church Website)
-Modern church website with a typed Next.js frontend and a Dockerized API layer.  
-**Tech:** Next.js + TypeScript (frontend), Python FastAPI (backend), Docker, Oracle Cloud<br>
-**Period:** 2025.07 ~ 2025.11
-
-- [Visit Website](https://www.eunsaem.com/)
-  
-<img src="https://github.com/user-attachments/assets/10bff469-3d54-4e4a-8f76-9aa951d05844" width="300" />
-
----
-
-## 🚀 Featured Projects
-### 🧱 Block Drag
-A fast-paced, intuitive puzzle game to test your spatial skills.  
-**Tech:** Flutter, Supabase  
-**Period:** 2025.05 ~ 2025.07
-
-- [Google Play Store](https://play.google.com/store/apps/details?id=com.elipair.blockdrag&pli=1)  
-- [App Store](https://apps.apple.com/us/app/block-drag/id6745786081)
-  
-<img src="https://github.com/user-attachments/assets/5b798eb3-64c5-4294-9c91-999376df7cf6" width="300" />
-
----
-
-### 📝 Emotion Diary  
-A clean and minimal diary app to track emotions and reflect on daily life.  
-**Tech:** React  
-**Period:** 2025.07 ~ 2025.08
-
-- [Visit Website](https://emotion-diary-theta-eight.vercel.app/)
-  
-  <img width="300" height="400" alt="thumbnail" src="https://github.com/user-attachments/assets/a2433ae3-c14a-4e3c-b7af-6b9d6749ded6" />
-  
----
-### 📖 RuleBook  
-Quickly browse, bookmark, and search rulebooks for your favorite games.  
-**Tech:** Flutter 
-**Period:** 2025.03 ~ 2025.06
-- [Google Play Store](https://play.google.com/store/apps/details?id=com.elipair.rulebook)  
-- [App Store](https://apps.apple.com/us/app/%EB%A3%B0%EB%B6%81-rulebook/id6745808744)
-  
-<img src="https://github.com/user-attachments/assets/cab01c79-b6f9-4c6b-a752-8b13cc30f714" width="300" />
-
----
-### 🌐 냥생뭐였니? (Nyangseng Project)
-A playful cat-themed web experience built with Next.js  
-**Tech:** Next.js  
-**Period:** 2024.11 ~ 2024.12
-
-- [Visit Website](https://nyangseng-git-main-em-h20s-projects.vercel.app/)
-  
-<img src="https://github.com/user-attachments/assets/a6d9f846-26e8-4d70-8204-d2c7acfe1f95" width="300" />
-
----
-
-### 🤖 플래닝 (Discord Bot)
-A Lost Ark information bot for Discord communities  
-**Tech:** Python, Oracle Cloud  
-**Period:** 2024.11 ~ 2024.12  
-- Deployed on Oracle Cloud infrastructure  
-- Provides real-time Lost Ark game information and updates  
-
-<div align="start" style="display: flex; flex-direction: column; align-items: center;">
-
-<img width="300" alt="플래닝 Discord Bot" src="https://github.com/user-attachments/assets/27c1d5b2-4362-4b1c-9f50-5da4d2c4e376" />
-
-<br />
-
-<img width="399" height="503" alt="image" src="https://github.com/user-attachments/assets/6c087d8a-efe6-4e31-8eed-57043d0a4dc2" />
-
-</div>
-
----
