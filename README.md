@@ -21,7 +21,7 @@
 
 | 항목 | 소개 |
 | :--- | :--- |
-| **Focus** | Flutter 앱 개발 · 배포 자동화 · UX 개선 |
+| **Focus** | Flutter 앱 개발 · 배포 자동화 · UI/UX 개선 |
 | **Education** | 세종대학교 · 컴퓨터공학 전공 |
 | **Certification** | ![SQLD](https://img.shields.io/badge/SQLD-4479A1?style=flat-square) |
 
