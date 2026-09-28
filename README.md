@@ -23,7 +23,7 @@
 | 항목 | 소개 |
 | :--- | :--- |
 | **Focus** | Flutter 앱 개발 · 배포 자동화 · UI/UX 개선 |
-| **Education** | 세종대학교 · 컴퓨터공학 전공 |
+| **Education** | 세종대학교 컴퓨터공학과 <br> ![AI Microdegree](https://img.shields.io/badge/Microdegree-AI%20Advanced-0052CC?style=flat-square)
 | **Certification** | ![SQLD](https://img.shields.io/badge/SQLD-4479A1?style=flat-square) |
 
 ---
