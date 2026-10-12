@@ -5,14 +5,16 @@
 # Hong Eui-min · Elipair
 
 **Flutter Developer · Mobile & Web App Engineer**  
-아이디어를 실제로 사용할 수 있는 모바일·웹 서비스로 만듭니다.  
+아이디어를 실제로 사용할 수 있는 모바일·웹 서비스로 만듭니다. — *고민은 짧게, 행동은 빠르게*
 
+[![Website](https://img.shields.io/badge/Website-em--h20.github.io-0F1010?style=for-the-badge&logo=googlechrome&logoColor=white)](https://em-h20.github.io)
+[![PDF](https://img.shields.io/badge/PDF-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-555555?style=for-the-badge)](https://em-h20.github.io/portfolio.pdf)  
 [![Email](https://img.shields.io/badge/Email-elipair0106@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elipair0106@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/eui-min-hong)
 [![Blog](https://img.shields.io/badge/Tistory-Blog-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://elipair.tistory.com/)
 [![Instagram](https://img.shields.io/badge/Instagram-@e__m__hong-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/e_m_hong)
-[![GitHub](https://img.shields.io/badge/GitHub-EM--H20-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EM-H20)
 
-[소개·자격증](#spec) · [대표 프로젝트](#featured-project) · [수상](#awards) · [프로젝트 모음](#projects) · [기술 스택](#skills)
+> 전체 프로젝트, 수상 9건, 프로젝트별 상세 스토리는 **[em-h20.github.io](https://em-h20.github.io)** 에 정리해 두었습니다.
 
 ---
 
@@ -32,45 +34,24 @@
 
 ## ![FEATURED PROJECT](https://img.shields.io/badge/FEATURED%20PROJECT-555555?style=for-the-badge)
 
-### 🚔 경찰과도둑
+### 🚔 [경찰과도둑](https://em-h20.github.io/projects/cops-and-robbers)
 
 <a href="https://www.instagram.com/dongsim_protector">
   <img width="796" height="149" alt="동심지키미 소식 배너" src="https://github.com/user-attachments/assets/14f3380b-7d30-4942-8864-4669358c7b0b" />
 </a>
 
 **현실의 술래잡기를 연결하는 실시간 위치 기반 야외 게임 앱**  
-친구·동료·가족이 스마트폰으로 함께 즐기는 경찰과 도둑 놀이입니다. 위치 공유부터 QR 체포, 팀 채팅, 게임 판정까지 하나의 앱으로 연결합니다.
-
-**2025.10 – 2026** · Flutter · Android & iOS  
+**2025.10 – 2026** · Flutter · Android & iOS
 
 | 항목 | 내용 |
 | :--- | :--- |
 | **담당 역할** | Flutter 앱 개발 · GitHub Actions/Fastlane 배포 자동화 · UX 개선 |
+| **수상** | 세종 창업 아이디어 리그 **대상** 외 3건 |
 | **핵심 기능** | 실시간 위치 공유 · QR 체포·초대 · 팀별 채팅 · 자동 게임 판정 |
-| **기술** | Flutter · Riverpod · Dio/Retrofit · 지도 SDK · WebSocket(STOMP) · Firebase |
-| **행사 참가** | 서울대학페스티벌 · 청춘대로 · 서울게임타운 |
 
 [![Google Play](https://img.shields.io/badge/Google%20Play-181717?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.elipair.copsandrobbers)
-[![App Store](https://img.shields.io/badge/App%20Store-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/us/app/cops-and-robbers-real-chase/id6756843948) </br>
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/cops-and-robbers/cops-and-robbers-FE) [![Organization](https://img.shields.io/badge/Organization-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/cops-and-robbers)
-
----
-
-<a id="awards"></a>
-
-## ![AWARDS](https://img.shields.io/badge/AWARDS-555555?style=for-the-badge)
-
-| 수상·선정 | 대회 · 프로젝트 | 프로젝트 링크 |
-| :--- | :--- | :--- |
-| **🥇 1st Place** | **2026 · Google I/O Extended: Hack the Beat · GDG Campus Korea**<br>**Party Passport** |[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Twin-Fang/Hack-the-Beat)|
-| **대상** | **2026 · 세종대학교 SW중심대학 · 세종 창업 아이디어 리그**<br>경찰과도둑 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/cops-and-robbers/cops-and-robbers-FE) |
-| **우수 창업 아이템상** | **2026 · 세종대학교 하반기 입주공모전**<br>경찰과도둑 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/cops-and-robbers/cops-and-robbers-FE) |
-| **특별상** | **2026 · 세종대학교 중앙학술동아리 아롬 데모데이**<br>경찰과도둑 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/cops-and-robbers/cops-and-robbers-FE) |
-| 선정 | **2026 · 세종대학교 창업 동아리 SSUP**<br>경찰과도둑 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/cops-and-robbers/cops-and-robbers-FE) |
-| **대상** | **2025 · 세종대학교 창업캠프**<br>트립게더 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/EM-H20/Tripgether-FE) |
-| 본선 진출 | **2025 · 제2회 신격호 롯데 청년기업가대상**<br>트립게더 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/EM-H20/Tripgether-FE) |
-| **우수상** | **2025 · 연합동아리 Seeds 팀 프로젝트**<br>Stocker | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/EM-H20/stocker) |
-| **장려상** | **2025 · 제13회 세종대학교 SW-AI 해커톤**<br>완익세종 | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Wanik-Sejong/Wanik-Sejong-FE) |
+[![App Store](https://img.shields.io/badge/App%20Store-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/us/app/cops-and-robbers-real-chase/id6756843948)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/cops-and-robbers/cops-and-robbers-FE) · **[자세히 보기 →](https://em-h20.github.io/projects/cops-and-robbers)**
 
 ---
 
@@ -78,18 +59,16 @@
 
 ## ![PROJECTS](https://img.shields.io/badge/PROJECTS-555555?style=for-the-badge)
 
-| 프로젝트 | 소개 · 기술 · 기간 | 링크 |
+| 프로젝트 | 소개 | 성과 |
 | :--- | :--- | :--- |
-| **Block Drag** | 공간 감각을 활용하는 퍼즐 게임<br><sub>Flutter · Supabase · 2025.05 – 2025.07</sub> | [![Google Play](https://img.shields.io/badge/Google%20Play-181717?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.elipair.blockdrag&pli=1) [![App Store](https://img.shields.io/badge/App%20Store-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/us/app/block-drag/id6745786081) |
-| **RuleBook** | 보드게임 규칙 검색·북마크 앱<br><sub>Flutter · 2025.03 – 2025.06</sub> | [![Google Play](https://img.shields.io/badge/Google%20Play-181717?style=flat-square&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.elipair.rulebook) [![App Store](https://img.shields.io/badge/App%20Store-0D96F6?style=flat-square&logo=appstore&logoColor=white)](https://apps.apple.com/us/app/%EB%A3%B0%EB%B6%81-rulebook/id6745808744) |
-| **트립게더** | SNS 게시물을 공유하면 장소 정보를 정리하는 AI 여행 가이드<br><sub>Flutter · 2025.09 – 2025.11</sub> | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/EM-H20/Tripgether-FE) |
-| **Stocker** | 주식투자를 배우는 핀테크 교육 앱 · 팀 돔황촤 코스피<br><sub>Flutter · 2025.05 – 2025.11</sub> | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/EM-H20/stocker) [![상장](https://img.shields.io/badge/%EC%83%81%EC%9E%A5-555555?style=flat-square)](https://github.com/user-attachments/files/26157168/_.pdf) |
-| **완익세종** | SW-AI 해커톤 웹 프로젝트 · 팀 완익고무 100점<br><sub>React · Next.js · 2025.12.23 – 2025.12.24</sub> | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Wanik-Sejong/Wanik-Sejong-FE) |
-| **우주공부선** | 스터디 목표 설정·학습 기록·공유 플랫폼<br><sub>Flutter · 2026.01 – 2026</sub> | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SpaceStudyShip/SpaceStudyShip-FE) |
-| **은샘침례교회** | 교회 홈페이지와 API 서버<br><sub>Next.js · TypeScript · FastAPI · Docker · Oracle Cloud · 2025.07 – 2025.11</sub> | [![Website](https://img.shields.io/badge/Website-2582E0?style=flat-square&logo=googlechrome&logoColor=white)](https://www.eunsaem.com/) |
-| **Emotion Diary** | 감정을 기록하고 일상을 돌아보는 다이어리<br><sub>React · 2025.07 – 2025.08</sub> | [![Website](https://img.shields.io/badge/Website-2582E0?style=flat-square&logo=googlechrome&logoColor=white)](https://emotion-diary-theta-eight.vercel.app/) |
-| **냥생뭐였니?** | 고양이를 테마로 한 웹 콘텐츠<br><sub>Next.js · 2024.11 – 2024.12</sub> | [![Website](https://img.shields.io/badge/Website-2582E0?style=flat-square&logo=googlechrome&logoColor=white)](https://nyangseng-git-main-em-h20s-projects.vercel.app/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/EM-H20/Nyangseng) |
-| **플래닝** | 로스트아크 정보를 제공하는 Discord 봇<br><sub>Python · Oracle Cloud · 2024.11 – 2024.12</sub> | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/EM-H20/DiscordBot) |
+| **[Party Passport](https://em-h20.github.io/projects/party-passport)** | 파티에서 QR로 만난 사람을 스탬프로 모으고, 서로 고른 사람만 매칭되는 웹앱<br><sub>React · TypeScript · 2026.08</sub> | 🥇 Google I/O Extended: Hack the Beat 1st Place |
+| **[트립게더](https://em-h20.github.io/projects/tripgether)** | SNS 게시물을 공유하면 장소 정보를 정리하는 AI 여행 가이드<br><sub>Flutter · 2025.09 – 2025.11</sub> | 세종대 창업캠프 대상 · 롯데 청년기업가대상 본선 |
+| **[Stocker](https://em-h20.github.io/projects/stocker)** | 주식투자를 배우는 핀테크 교육 앱 · 팀 돔황촤 코스피<br><sub>Flutter · 2025.05 – 2025.11</sub> | Seeds 팀 프로젝트 우수상 |
+| **[Block Drag](https://em-h20.github.io/projects/block-drag)** | 공간 감각을 활용하는 퍼즐 게임<br><sub>Flutter · Supabase · 2025.05 – 2025.07</sub> | Google Play · App Store 출시 |
+| **[RuleBook](https://em-h20.github.io/projects/rulebook)** | 출석·벌칙·벌금을 관리하는 앱<br><sub>Flutter · 2025.03 – 2025.06</sub> | Google Play · App Store 출시 |
+| **[완익세종](https://em-h20.github.io/projects/wanik-sejong)** | AI 기반 진로-교과목 로드맵 추천 서비스<br><sub>React · Next.js · 2025.12</sub> | SW-AI 해커톤 장려상 |
+
+프로젝트 이름을 누르면 상세 페이지로 이동합니다. 나머지 프로젝트와 전체 수상 내역은 **[웹사이트](https://em-h20.github.io/#projects)** 에서 볼 수 있어요.
 
 ---
 
