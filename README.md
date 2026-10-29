@@ -62,6 +62,7 @@
 | 프로젝트 | 소개 | 성과 |
 | :--- | :--- | :--- |
 | **[Party Passport](https://em-h20.github.io/projects/party-passport)** | 파티에서 QR로 만난 사람을 스탬프로 모으고, 서로 고른 사람만 매칭되는 웹앱<br><sub>React · TypeScript · 2026.08</sub> | 🥇 Google I/O Extended: Hack the Beat 1st Place |
+| **[passQL](https://em-h20.github.io/projects/passql)** | AI가 함정 오답을 만들고, 보기 SQL을 샌드박스 DB에서 실행해 확인하는 SQLD 학습 앱 · 세컨드브레인 탑재<br><sub>Flutter · React · 2026.04 – 2026</sub> | App Store 출시 · [웹 서비스](https://passql.vercel.app/) |
 | **[트립게더](https://em-h20.github.io/projects/tripgether)** | SNS 게시물을 공유하면 장소 정보를 정리하는 AI 여행 가이드<br><sub>Flutter · 2025.09 – 2025.11</sub> | 세종대 창업캠프 대상 · 롯데 청년기업가대상 본선 |
 | **[Stocker](https://em-h20.github.io/projects/stocker)** | 주식투자를 배우는 핀테크 교육 앱 · 팀 돔황촤 코스피<br><sub>Flutter · 2025.05 – 2025.11</sub> | Seeds 팀 프로젝트 우수상 |
 | **[Block Drag](https://em-h20.github.io/projects/block-drag)** | 공간 감각을 활용하는 퍼즐 게임<br><sub>Flutter · Supabase · 2025.05 – 2025.07</sub> | Google Play · App Store 출시 |
